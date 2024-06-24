@@ -1,6 +1,6 @@
 #!/bin/bash
 export CUBLAS_WORKSPACE_CONFIG=:4096:8
-export CUDA_VISIBLE_DEVICES=0
+#export CUDA_VISIBLE_DEVICES=0
 
 ### Path to DR-BERT Install
 BERT_PATH=/home/$USER/archive/DR-BERT
